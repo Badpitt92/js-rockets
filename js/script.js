@@ -24,8 +24,6 @@ var car = {
 					} else {
 						this.isTurnedOn = false;
 					}
-
-
 				}
 			};
 
